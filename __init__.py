@@ -20,7 +20,7 @@ md_version = "2.0"
 md_name = "Dice Roll"
 md_description = "Roll any number of dice"
 md_license = "MIT"
-md_url = "https://github.com/albertlauncher/python/tree/main/dice_roll"
+md_url = "https://github.com/albertlauncher/albert-plugin-python-dice-roll"
 md_authors = "@DenverCoder1"
 
 
