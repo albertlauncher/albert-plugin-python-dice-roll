@@ -16,12 +16,12 @@ Example: "roll 2d6 3d8 1d20"
 """
 
 md_iid = "3.0"
-md_version = "2.0"
+md_version = "2.1"
 md_name = "Dice Roll"
 md_description = "Roll any number of dice"
 md_license = "MIT"
 md_url = "https://github.com/albertlauncher/albert-plugin-python-dice-roll"
-md_authors = "@DenverCoder1"
+md_authors = ["@DenverCoder1"]
 
 
 def get_icon_path(num_sides: int | None) -> str:
